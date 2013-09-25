@@ -1,0 +1,13 @@
+{
+	"id": "com.translunardesigns.kookaroo",
+	"version": "3.0.0",
+	"vendor": "Trans Lunar Designs, Inc.",
+	"type": "web",
+	"main": "index.html",
+	"title": "Kookaroo Roku",
+	"icon": "icon.png",
+	"smallicon": "images/LogoColor32x32.png",
+	"splashicon": "images/splashicon2.png",
+	"splashBackground": "images/splashscreen.png",
+	"uiRevision":2
+}

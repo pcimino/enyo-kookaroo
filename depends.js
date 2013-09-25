@@ -1,0 +1,19 @@
+/* Copyright 2020-2011 Trans Lunar Designs, Inc. All rights reserved. */
+enyo.depends(
+	"enyo/Global.js",
+	"enyo/prototype/Prototype.js",
+	"enyo/TimeDelay.js",
+	"enyo/SearchAssistant.js",
+	"enyo/AJAXUtil.js",
+	"enyo/AjaxRequest.js",
+	"enyo/SearchPopup.js",
+	"enyo/SearchPopupNarrow.js",
+	"enyo/RemoteControl.js",
+	"enyo/Kookaroo.js",
+	"enyo/Kookaroo.css",
+	"enyo/RokuListItem.js",
+	"enyo/RokuList.js",
+	"enyo/RokuListNarrow.js",
+	"enyo/SpinnerPopupDialog.js",
+	"enyo/PopupDialog.js"
+);
